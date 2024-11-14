@@ -1,0 +1,15 @@
+{
+  "name": "intergrated_assessment",
+  "version": "1.0.0",
+  "description": "this is intergarated assessment of ingabire nadia and valante chofour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js"
+  },
+  "author": "ingabire nadia and valante",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
